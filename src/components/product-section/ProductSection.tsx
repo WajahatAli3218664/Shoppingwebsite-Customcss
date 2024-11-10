@@ -30,7 +30,7 @@ function ProductSection() {
                     <FaStar
                       color="yellow"
                       size={25}
-                      style={{ color: "#FFD700" }}
+                      style={{ color: "#902C3E" }}
                       key={index}
                     />
                   ))}

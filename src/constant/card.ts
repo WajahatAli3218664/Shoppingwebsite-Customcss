@@ -75,7 +75,7 @@ export const cardData = [
     {
         id: 10,
         backgroundColor: "#E0E3E8",
-        img:"/model11.png",
+        img:"/green.webp",
         title: "Cardigans",
         price:"$20.03",
         rating:2,
@@ -83,7 +83,7 @@ export const cardData = [
     {
         id:11,
         backgroundColor: "#F5B31E",
-        img:"/model12.png",
+        img:"/sweet.jpg",
         title: "V-Neck Sweaters",
         price:"$33.32",
         rating:4,
@@ -107,7 +107,7 @@ export const cardData = [
     {
         id: 14,
         backgroundColor: "#EEAAB7",
-        img:"/model15.png",
+        img:"/long.webp",
         title: "Long-sleeve t-shirts",
         price:"$29.77",
         rating:2,

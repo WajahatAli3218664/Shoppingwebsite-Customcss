@@ -16,7 +16,7 @@ function Footer() {
     <div>
       <section className={style.footer}>
         <div className={style.footer1}>
-          <h1>FASHION FLEX.</h1>
+          <h1>Glamour Shop.</h1>
           <p>Complete your style with awesome <br /> clothes from us</p>
             
             <div className={style.icon}>

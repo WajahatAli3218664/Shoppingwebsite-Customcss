@@ -38,7 +38,7 @@ function Herosection() {
           </div>
           <div className={style.rightcontent}>
             <Image
-              src="/mainImage.png"
+              src="/pink.png"
               alt="mainImage"
               width={504}
               height={450}

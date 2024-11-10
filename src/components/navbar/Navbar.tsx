@@ -18,8 +18,8 @@ function Navbar() {
     <div>
       <nav className={style.nav}>
         <div className={style.logo}>
-          <Image src="/logo.png" alt="Image" width={96} height={96} />
-          <h1 className={islandMoments.className}>Fashion Flex.</h1>
+          <Image src="/color.png" alt="Image" width={96} height={96}  />
+          <h1 className={islandMoments.className} >GlamourShop </h1>
         </div>
 
         
